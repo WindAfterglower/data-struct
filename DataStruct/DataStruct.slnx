@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="01_Vector/01_Vector.vcxproj" Id="b6b81300-91d5-4618-ab50-8bf3f4444c50" />
+  <Project Path="DataStructLib/DataStructLib.vcxproj" Id="4b5f96fe-0351-4d8a-9103-a7292be1d191" />
 </Solution>
